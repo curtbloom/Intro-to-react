@@ -1,0 +1,9 @@
+/src
+  /components
+    /index.js
+    /style.css
+
+/scenes
+  /components
+  /index.js
+  /style.css
